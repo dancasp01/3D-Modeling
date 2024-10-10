@@ -1,19 +1,4 @@
-# threetest
+Solar system model using Three.js
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+This was meant as a fun challenge for me to learn how to build and edit 3D objects within a website.
+Any 3D model can be mapped to the objects within the solar system ie we can make earth into a pickup truck or a coffee mug.
